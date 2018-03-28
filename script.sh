@@ -16,3 +16,4 @@ then
 else
     echo "missed"
 fi
+if [ "a" = "a" ];then echo "hit";else echo "missed";fi
